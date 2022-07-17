@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emtiaz Ahmed</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
-<img src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emtiazahmed27&label=Profile%20views&color=0e75b6&style=flat" alt="emtiazahmed27" /> </p>
 
